@@ -14,3 +14,15 @@ git remote add origin https://github.com/baiyatao/vip888.git
 git remote add origin 
 git remote add origin
 git remote add origin
+git remote add origin 
+git remote add origin
+git remote add origin
+git remote add origin 
+git remote add origin
+git remote add origin
+git remote add origin 
+git remote add origin
+git remote add origin
+git remote add origin 
+git remote add origin
+git remote add origin
